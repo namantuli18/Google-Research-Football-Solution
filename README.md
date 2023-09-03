@@ -121,4 +121,7 @@ def penalty(obs, player_x, player_y):
 
 ## Full Replay
 This game shows how the team soaked pressure and prevented the opponent from scoring.
-![Game Process](https://github.com/namantuli18/Google-Research-Football-Solution/blob/main/media/counter.gif)
+[![Watch the video](https://github.com/namantuli18/Google-Research-Football-Solution/blob/main/media/sample-match.png)](https://youtu.be/d9uF8aDyRYc)
+
+
+
