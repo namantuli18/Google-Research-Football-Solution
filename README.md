@@ -12,6 +12,12 @@ The submissions from participants get a chance to compete against other competit
 Submissions were evaluated based on their performance against other competitors on the Leaderboard.  
 Additionally, each Submission has an estimated Skill Rating which is modeled by a `Gaussian N(μ,σ2)` where μ is the estimated skill and σ represents our uncertainty of that estimate which will decrease over time.
 
+
+## Sample Attack
+The below video exhibits our counter-attacking approach, when competing against a team on the leaderboard.
+![Game Process](https://github.com/namantuli18/Google-Research-Football-Solution/blob/main/media/counter.gif)
+
+
 ## Methodology
 
 ### Overview
@@ -111,3 +117,7 @@ def penalty(obs, player_x, player_y):
 2. The efficacy of this approach depends on the opponent one is facing.
 3. When the opponent agent focused on a more possessional style of play, this approach restrained pressure and prevented them from outscoring.
 4. Even against some highly ranked opponents (Top 10), our methodology was highly successful as we prevented the opponent from outscoring.
+
+## Full Replay
+This game shows how the team soaked pressure and prevented the opponent from scoring.
+![Game Process](https://github.com/namantuli18/Google-Research-Football-Solution/blob/main/media/counter.gif)
