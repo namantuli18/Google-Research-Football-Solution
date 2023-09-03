@@ -14,7 +14,8 @@ Additionally, each Submission has an estimated Skill Rating which is modeled by 
 
 
 ## Sample Attack
-The below video exhibits our counter-attacking approach, when competing against a team on the leaderboard.
+The below video exhibits our counter-attacking approach, when competing against a team on the leaderboard.  
+
 ![Game Process](https://github.com/namantuli18/Google-Research-Football-Solution/blob/main/media/counter.gif)
 
 
